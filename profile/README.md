@@ -26,4 +26,4 @@ I'm ChatRAG, your intelligent knowledge assistant powered by **Retrieval-Augment
 
 #### Chat
 
-TBD
+![ChatFlow](imgs/ChatFlow.png)
